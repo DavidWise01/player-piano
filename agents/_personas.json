@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "paul-proteus",
+    "name": "Paul Proteus",
+    "epithet": "Manager of the Ilium Works who turns from system insider to ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Paul Proteus:PNP:e5a5c7⟧"
+  },
+  {
+    "slug": "ed-finnerty",
+    "name": "Ed Finnerty",
+    "epithet": "Paul's brilliant, disaffected engineer friend who quits and ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ed Finnerty:PNP:77b2eb⟧"
+  },
+  {
+    "slug": "rev-james-lasher",
+    "name": "Rev. James Lasher",
+    "epithet": "Minister-anthropologist, the ideological leader of the Ghost",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Rev. James Lasher:PNP:295aef⟧"
+  },
+  {
+    "slug": "the-shah-of-bratpuhr",
+    "name": "The Shah of Bratpuhr",
+    "epithet": "Visiting spiritual leader whose outsider questions satirize ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Shah of Bratpuhr:PNP:b7bef0⟧"
+  },
+  {
+    "slug": "rudy-hertz",
+    "name": "Rudy Hertz",
+    "epithet": "The old machinist whose hand-motions were recorded to automa",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Rudy Hertz:PNP:92a467⟧"
+  },
+  {
+    "slug": "epicac-xiv",
+    "name": "EPICAC XIV",
+    "epithet": "The master supercomputer (in Carlsbad Caverns) that runs the",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦EPICAC XIV:PNP:58c5a9⟧"
+  },
+  {
+    "slug": "the-ghost-shirt-society",
+    "name": "The Ghost Shirt Society",
+    "epithet": "The Luddite rebellion against automation — named for the Nat",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Ghost Shirt Society:PNP:8473d5⟧"
+  },
+  {
+    "slug": "ilium-new-york",
+    "name": "Ilium, New York",
+    "epithet": "The divided industrial city — Vonnegut's recurring American ",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ilium, New York:PNP:04c53e⟧"
+  }
+]

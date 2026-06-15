@@ -1,0 +1,12 @@
+{
+  "node": "PNP",
+  "name": "Player Piano",
+  "moniker": "⟦PLAYER PIANO:PNP:a00733⟧",
+  "carbon": "player-piano.carbon.tiff",
+  "silicon": "player-piano.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "The machines play the music now. The first of his closed worlds — and the only one he'd spend a career prying open.",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
