@@ -4,6 +4,6 @@ slug  : player-piano
 seal  : 26d4f4b29954f64a159db69637428869c0b29041a8cd1b54204a63504864273e
 prev  : e42b6490153d6eaa04e84a58a23a901498df125ed99574ab0c0d3820cdfa23b1
 link  : 0c33fd65cf324a294e2028cd9a870b61ec53bf4fdf1d9c3036151b68cb0d6b50
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
