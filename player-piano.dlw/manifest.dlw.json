@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The machines play the music now. The first of his closed worlds — and the only one he'd spend a career prying open.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 905,
+    "prev": "e42b6490153d6eaa04e84a58a23a901498df125ed99574ab0c0d3820cdfa23b1",
+    "link": "0c33fd65cf324a294e2028cd9a870b61ec53bf4fdf1d9c3036151b68cb0d6b50",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
